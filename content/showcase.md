@@ -1,7 +1,7 @@
 ---
 title: "Showcase"
 date: 2021-02-24T10:19:35+07:00
-draft: true
+draft: false
 ---
 Here are some projects I've built
 
