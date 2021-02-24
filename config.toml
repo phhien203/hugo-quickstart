@@ -7,14 +7,14 @@ paginate = 5
 [params]
   contentTypeName = "post"
   themeColor = "blue"
-  showMenuItems = 2
+  showMenuItems = 3
   fullWidthTheme = false
   centerTheme = true
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Pham Huu Hien"
+    subtitle = "Gieo kien thuc - Gat niem vui"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -22,8 +22,8 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
-      logoHomeLink = "/"
+      logoText = "Pham Huu Hien"
+      logoHomeLink = "/posts"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
